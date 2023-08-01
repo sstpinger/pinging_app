@@ -1,4 +1,4 @@
-# pinging_app
+# PINGING_APP
 Old version of pinging app
 
 # Download APK files
